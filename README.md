@@ -21,7 +21,7 @@ A continuación se presenta una representación ASCII de cómo comenzó el proye
 **Teclado de símbolos (superpuesto):**
 
 ![Teclado de símbolos](https://i.imgur.com/GFZKwnl.png)
-```
+
 
 Cada letra fue asociada con el símbolo que físicamente aparecía en la misma posición del teclado cuando se alternaba entre modos. Este mapeo fue la base conceptual de RKeyZwap64, aunque posteriormente se optó por una tabla explícita de símbolos ASCII compatibles con Base64.
 
