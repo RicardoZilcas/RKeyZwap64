@@ -40,7 +40,7 @@ El desarrollo de RKeyZwap64 fue un viaje iterativo de experimentación y aprendi
 15. **Identificación y resolución del bug en la `O`:** Se detectó que el símbolo de la letra `O` era sobrescrito en algunos casos; se solucionó aislando símbolos únicos.
 16. **Revisión de simbolismo en teclados internacionales:** Se evitó el uso de símbolos problemáticos como `~` o caracteres no ASCII.
 17. **Estabilidad final:** Se alcanzó una versión que cifraba y descifraba correctamente sin errores binarios ni colisiones.
-18. **Modularización del código:** Se separó la lógica principal del cifrado/decodificación en `keyswap64.py`, y la interfaz de usuario en `main.py`, facilitando el mantenimiento y la escalabilidad.
+18. **Modularización del código:** Se separó la lógica principal del cifrado/decodificación en `rkeyzwap64.py`, y la interfaz de usuario en `main.py`, facilitando el mantenimiento y la escalabilidad.
 19. **Optimización del diccionario:** Se reescribieron los diccionarios de forma explícita y sin símbolos duplicados, garantizando una codificación y decodificación 1:1 sin ambigüedades.
 20. **Revisión y validación final del flujo:** Ricardo dio su aprobación tras validar casos extremos y verificar que el resultado final reflejaba su visión inicial.
 
