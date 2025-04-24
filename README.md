@@ -12,11 +12,16 @@
 
 A continuación se presenta una representación ASCII de cómo comenzó el proyecto, basado en la observación directa del teclado QWERTY y el teclado de símbolos superpuestos en un smartphone Android:
 
-```
-Teclado QWERTY:           Teclado de símbolos (superpuesto):
- q w e r t y u i o p       ! @ # $ % ^ & * ( )
- a s d f g h j k l ñ       _ ? : ; ' " < > , .
- z x c v b n m             { } [ ] \ |         
+### Comparación visual de teclados usados en RKeyZwap64
+
+**Teclado QWERTY original:**
+
+![Teclado QWERTY](https://imgur.com/5ixS9R2)
+
+**Teclado de símbolos (superpuesto):**
+
+![Teclado de símbolos](https://imgur.com/GFZKwnl)
+
 ```
 
 Cada letra fue asociada con el símbolo que físicamente aparecía en la misma posición del teclado cuando se alternaba entre modos. Este mapeo fue la base conceptual de RKeyZwap64, aunque posteriormente se optó por una tabla explícita de símbolos ASCII compatibles con Base64.
