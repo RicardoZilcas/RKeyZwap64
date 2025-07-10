@@ -7,7 +7,7 @@
 - Se añadió `App.py`: una interfaz gráfica desarrollada con Tkinter.
 - Nuevo ícono: `logo_rkeyzwap.ico`, ideal para generar el `.exe` con PyInstaller:
 
-![Interfaz Grafica](https://imgur.com/fKeHfsB)
+![Interfaz Grafica](https://i.imgur.com/fKeHfsB.png)
 
 ---
 
