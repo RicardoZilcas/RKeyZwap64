@@ -2,6 +2,13 @@
 
 > ⚠️ **Disclaimer:** Este proyecto fue desarrollado como una prueba de concepto utilizando inteligencia artificial. La programación fue realizada mayoritariamente por **ChatGPT-4o de OpenAI**, a partir de las instrucciones, ideas, y dirección de **Ricardo (Zilcas)**. Aunque Ricardo no escribió directamente el código, su participación consistió en revisar, corregir y validar la lógica paso a paso, solicitando cambios precisos y guiando el diseño y flujo del cifrado hasta su versión final estable.
 
+## 🆕 Novedades (julio 2025)
+
+- Se añadió `App.py`: una interfaz gráfica desarrollada con Tkinter.
+- Nuevo ícono: `logo_rkeyzwap.ico`, ideal para generar el `.exe` con PyInstaller:
+
+![Interfaz Grafica](https://imgur.com/fKeHfsB)
+
 ---
 
 **Cifrado personalizado simbólico basado en teclado y codificación Base64**
